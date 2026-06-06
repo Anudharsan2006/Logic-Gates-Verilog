@@ -76,5 +76,5 @@ This project demonstrates:
 ## Author
 
 **Anudharsan R R**  
-B.E. Electronics and Communication Engineering  
+B.E. Electronics  Engineering (VLSI Design and Technology)  
 FPGA &amp; VLSI Enthusiast
